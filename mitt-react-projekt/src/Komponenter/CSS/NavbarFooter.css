@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F1F21;
+    color: #fff;
+    padding: 20px 40px;
+  }
+
+  #Home{
+    text-decoration: none;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
